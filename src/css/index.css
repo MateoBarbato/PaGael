@@ -1,0 +1,114 @@
+
+
+.test { 
+    color: red;
+    font-size: 29px;
+}
+
+
+.navbar-img{
+    height: 100%;
+}
+
+
+.mainContainer{
+    min-height: 70vh;
+    /* background-color: #f9f5f5; */
+}
+
+.containerCards{
+    padding: 2rem 0;
+    display: grid;
+    margin: 6rem 2rem;
+    grid-template-columns: repeat(auto-fill, 18rem);
+    gap: 5%;
+    justify-content: center;
+    align-items: center;
+    /* background-color: #f9f5f5; */
+}
+
+.cardContainer{
+    width: 18rem;
+    height: 15rem;
+    box-shadow:
+  1.4px 1.8px 2.2px rgba(0, 0, 0, 0.032),
+  3.4px 4.3px 5.3px rgba(0, 0, 0, 0.034),
+  6.4px 8px 10px rgba(0, 0, 0, 0.032),
+  11.4px 14.3px 17.9px rgba(0, 0, 0, 0.031),
+  21.3px 26.7px 33.4px rgba(0, 0, 0, 0.033),
+  51px 64px 80px rgba(0, 0, 0, 0.07);
+}
+
+.cardContainer a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.cardBody{
+    
+    height: 85px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-img{
+    height: 190px;
+}
+
+.companyListContainer{
+    margin-top: 40px;
+    padding: 40px 13px;
+    
+}
+
+.goback{
+    text-decoration: none;
+    color: black;
+    text-decoration: none;
+}
+
+.companylist{
+    
+    display:grid;
+    grid-template-columns: repeat(auto-fill, 18rem);
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer{
+    width: 100%;
+    height: 10rem;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(248 249 250);
+}
+
+.borderDiv{
+    height: 2rem;
+    width: 60%;
+    border-top: 1px solid #B0A8B9;
+    
+}
+
+.welcomecontainer{
+    display: flex;
+    justify-content: center;
+    align-items:flex-start;
+    background-image: url('../pexels-andrea-piacquadio-3823488.jpg');
+    height: 40rem;
+    background-repeat:repeat;
+    background-size:cover;
+}
+
+.welcometext{
+    margin-top: 25rem;
+    font-size: 36px;
+    color: rgb(12, 12, 12);
+    font-weight:400;
+    font-family: 'Merriweather Sans', sans-serif;
+}
