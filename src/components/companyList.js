@@ -18,12 +18,12 @@ const CompanyList = () => {
         <Container className="companyListContainer">
         <div className="goback">
             <Link  to="/">
-                <span >Go back</span>
+                <span >Ir atras</span>
             </Link>
         </div>
             <div className="companylist">
                 {newdb.map((company,index)=>{
-                    return <Mycard key={index} image={`assets/${company.image}`} title={company.name} link={company.link}/>
+                    return <Mycard key={index} image={`assets/logos company/${company.image}`} title={company.name} link={company.link}/>
                 })}
             </div>
         </Container>

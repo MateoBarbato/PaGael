@@ -9,13 +9,13 @@ const Header = () => {
         <header className="header">
           <Navbar className="brand-center p-0" bg="light" variant="dark">
         <Container className="justify-content-center">
-          <Navbar.Brand className='p-0' href="#home">
+          <Navbar.Brand className=' m-0 p-0' href="#home">
             <img
               alt=""
               src="/assets/Original on Transparent.png"
-              width="270"
+              width="286"
               height="80"
-              className="d-inline-block align-top p-0"
+              className="d-inline-block align-top  p-0"
             />{' '}
           </Navbar.Brand>
         </Container>
