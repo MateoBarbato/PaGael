@@ -9,6 +9,7 @@
     height: 100%;
 }
 
+.brand-center {justify-content: "center"}
 
 .mainContainer{
     min-height: 70vh;

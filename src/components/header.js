@@ -7,17 +7,30 @@ import { Link } from 'react-router-dom';
 const Header = () => {
   return (
         <header className="header">
-          <Navbar bg="light" expand="lg" className='py-4'>
+          <Navbar className="brand-center" bg="secondary" variant="dark">
+        <Container className="justify-content-center">
+          <Navbar.Brand  href="#home">
+            <img
+              alt=""
+              src="/assets/Original on Transparent.png"
+              width="270"
+              height="80"
+              className="d-inline-block align-top"
+            />{' '}
+          </Navbar.Brand>
+        </Container>
+      </Navbar>
+          {/* <Navbar bg="light" expand="lg" className='py-4'>
             <Container className='container-css'>
-              <Navbar.Brand>
+              < >
                 <Link to='/'>
-                <img src="./assets/Capture.jpg" 
+                <img src="./assets/Original on Transparent.png" 
                      alt="" width="160"
                      height="60"
                       />
                 </Link>
-              </Navbar.Brand>
-              <Navbar.Toggle aria-controls="basic-navbar-nav" />
+              </Navbar.Brand> */}
+              {/* <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav" className="justify-content-end">
                 <Nav className="justify-content-end">
                 <Nav.Link href="#home">Home</Nav.Link>
@@ -34,9 +47,9 @@ const Header = () => {
                   </NavDropdown.Item>
                 </NavDropdown>
               </Nav>
-            </Navbar.Collapse>
-          </Container>
-        </Navbar>
+            </Navbar.Collapse> */}
+          {/* </Container>
+        </Navbar> */}
         </header>
   );
 }
