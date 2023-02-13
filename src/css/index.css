@@ -9,6 +9,11 @@
     height: 100%;
 }
 
+.navbar{
+    padding: 0;
+    margin: 0;
+}
+
 .brand-center {justify-content: "center"}
 
 .mainContainer{

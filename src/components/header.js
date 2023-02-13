@@ -7,15 +7,15 @@ import { Link } from 'react-router-dom';
 const Header = () => {
   return (
         <header className="header">
-          <Navbar className="brand-center" bg="light" variant="dark">
+          <Navbar className="brand-center p-0" bg="light" variant="dark">
         <Container className="justify-content-center">
-          <Navbar.Brand  href="#home">
+          <Navbar.Brand className='p-0' href="#home">
             <img
               alt=""
               src="/assets/Original on Transparent.png"
               width="270"
               height="80"
-              className="d-inline-block align-top"
+              className="d-inline-block align-top p-0"
             />{' '}
           </Navbar.Brand>
         </Container>
