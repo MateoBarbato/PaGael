@@ -15,7 +15,7 @@ const Header = () => {
               src="/assets/Original on Transparent.png"
               width="286"
               height="80"
-              className="d-inline-block align-top p-0"
+              className=" d-inline-block align-top p-0"
             />{' '}
           </Navbar.Brand>
         </Container>

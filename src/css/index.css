@@ -13,6 +13,12 @@
     margin: 0;
 }
 
+.card-img{
+    width: 100%;
+    min-height:200px;
+    min-width: 286px;
+}
+
 .brand-center {justify-content: "center"}
 
 .mainContainer{
@@ -69,7 +75,8 @@
 }
 
 .goback {
-    margin-bottom: 5vh;
+    /* margin-bottom: 5vh; */
+    margin: 3rem;
 }
 
 .goback a{

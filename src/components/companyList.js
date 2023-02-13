@@ -16,9 +16,9 @@ const CompanyList = () => {
     return(
         <>        
         <Container className="companyListContainer">
-        <h2>Usted esta en: {company}</h2>
+        <h2>{company}</h2>
         <div className="instructions">
-            <p>Para pagar el servicio haga click en la imagen y lo re-enviara al lugar de pago</p>
+            <p>Para pagar el servicio elija el proveedor de {company} y lo re-enviara a la pagina de pagos.</p>
         </div>
         <div className="goback">
             <Link  to="/">
@@ -32,6 +32,12 @@ const CompanyList = () => {
                     return <Mycard key={index} image={`assets/logos company/${company.image}`} title={company.name} link={company.link}/>
                 })}
             </div>
+
+            <div className="goback">
+            <Link  to="/">
+                <span >Ir atras</span>
+            </Link>
+        </div>
         </Container>
         </>
 
