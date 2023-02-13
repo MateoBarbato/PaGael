@@ -19,6 +19,10 @@
     min-width: 287px;
 }
 
+.text{
+    text-align: center;
+}
+
 .brand-center {justify-content: "center"}
 
 .mainContainer{
@@ -70,12 +74,10 @@
 
 .companyListContainer{
     margin-top: 10vh;
-    /* padding: 40px 13px; */
     
 }
 
 .goback {
-    /* margin-bottom: 5vh; */
     margin: 3rem;
 }
 
