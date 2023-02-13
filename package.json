@@ -1,4 +1,5 @@
-{ "name": "Pagael",
+{ 
+ "name": "Pagael",
  "homepage": "http://www.pagael.com.co",
  "version": "1.0.0",
  "description": "my react application",
