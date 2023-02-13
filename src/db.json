@@ -26,7 +26,7 @@
   }, {
     "id": 5,
     "name": "Itelkom ",
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHbSURBVDjLdVK9qhpREJ7j7vrLGlhRiaCFFikkT2BxQZs8Q7pgJ9rcVuIj3MYHSJdXUAj+FDa2wSaIIihcJVUs1t91c75z7yyLd+8Hw5k5M9/MnDkjXNclYDqdDhzHqV6vV5In4fTL5XLx68N6vV4DTyCBJD/EYrFxsVik8/lM9+AigGEYNBqNaL1e15rN5lDHpczasSyLttstRSIRj+QnQt9sNpRMJqlUKtFyuWzL66GYTCYP8Xh8XCgUaL/fqw5Y0C6IQgjSNE1VN02TEokEDQYDWq1WNV2+p5NOp9UbERSNRpVwdX8nOG+3Gx2PRyqXyzSfz9s6qhwOB9rtdmTbtkeAcAcgASgCW9d1ymQyyo8EVVSezWaqVSbjCaFQyEsAMvsBDFzeVXX+nnw+T6fTSQVDkBQ+fCnPATZ8sJmn87/LqaqKnIBnwglgc0cAYlQCOFKpFFUqFS+Yg2BzMMh+fy6X8xL0e73eF27pbuPebCRvKU4pfeFfFkar1focDod/Z7NZZcutu3W7XY0CIBqNhhvkIC1inzVLraXh/LOFY5tBYWqVsZr3WCwW8WK1ofTNr+/mOzEvCaDc469buHywHYN1GWQEPiFoBsDHr3+e5PHt1fzx/PPTY1Dcf079mla6MmR7AAAAAElFTkSuQmCC",
+    "image": "logoitelkom-negrorojo.png",
     "link": "https://clientes.itelkom.co/client/login"
   }, {
     "id": 6,
@@ -48,7 +48,7 @@
 {
   "id": 2,
   "name": "Electricidad",
-  "image": "technology-gec1a80034_1920.jpg",
+  "image": "electricity-g968b1227d_1920.jpg",
   "companies":[
     {
     "id": 1,

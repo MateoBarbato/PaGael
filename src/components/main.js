@@ -7,7 +7,7 @@ import Welcome from "./welcome";
 const Main  = () => {
     return (
         <main className="mainContainer">
-            <Welcome></Welcome>
+            {/* <Welcome></Welcome> */}
             <CategoryList/>
         </main>
     )
