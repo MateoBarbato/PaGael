@@ -136,5 +136,33 @@
       "link": "https://linea.ccb.org.co/apprenovaciones/index.html#!/"
     }
   ]
+},
+{
+  "id":5,
+  "name":"Gas",
+  "image":"chemistry-gc5fe3026a_1920.jpg",
+  "companies":[
+    {
+      "id": 1,
+      "name": "Gas caribe",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAINSURBVDjLpZPNS1VhEIefc7wXTNQopKTM4IKRaB+GliQtKgpau3NjRcsIzEW1EQIR2kRUUP9AtHFhi4rAqKBCUDOEkDIQPzIIWpjX7jnvO+9Mi3uvUBAIDgzMDDMP/JiZyMzYjMVs0jYNyDDc9h8NCl5BPIiCdyChWAuAM0ghA0BTzz+z+rcHhRCKsQ+lWODN4xIAYHUZVLFQahDBgoAXTHwx9x4TAfFkd+yHgpUBBmbQfoMoW4N9fIiFQHzoEkiB8LyP+Nwdomwl8uoWtjgF3pcAIkVtppCtxcZuEnUOEIUUnXgAQYmPXqb/WQ/5NM/dg/3E85PrgBjviwA1iDNQvRdUsJUl4uPXidsuorMvSILQUNfM+fFBnAqIQGpkKCRFfapEQNTai319St/UfUwdzgJOhF3bmmiuP8Zqskb30hgjfjdbUiNDWqKpgnp08h5xx1Vk8jZnWnoJpgQNKMbyyiIHGrrIuwInF0YY1SoyFAxSDyg6egVECE8ukIgjmDL/cxavgqjHB8+vdJXDe06Q97/pOPK2BPCeKFQSlVcYAokkSBB21jYiGgimfF9ZYHt1PR8W3zEzN87w9FYiu1ZveFu/LIKBg+6uahLncOpIxJGra6Ezd5aJhfdMfxrl0UwN+5IKoo1+Y+tgvNbeeKrq9ZeX35xyennIPgMbB+QGorWgFVUFDbkfQzZXrv8BKB9RM6Fzq8AAAAAASUVORK5CYII=",
+      "link": "https://muisca.dian.gov.co/WebArquitectura/DefLoginOld.faces"
+    }, {
+      "id": 2,
+      "name": "Surtigas",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKmSURBVDjLjZPdS5NRHMf3D+h9XXVZRGBXBpYEdSGUaNkLoZWPmNNEI4tekMg0c+HKGLoldhFuBa2bKSm57WI2Wcryhfm4t/biptNRc29uzu2Z+/acU4+Y3njgy++cH+f7Ob/zJgIg2imTyVRkMBh6dTrdzMjIyG+NRhNRq9UOlUql+KBUnN49f7tjNpvzeLOcN2f8fj/C4TDi8TiSySRisRhsNisUfZ1cv7xD2SuT5P8H+Gf+6na7kcvlkEqlQCA+nw+hUAjZbBa57Aa4DQcM+o/ofvnQKOl6kr8NICsTcyaTAWkcx4GMXS4XotEohaY3VrCZsGJr8ye0o+/R/rRJSQG8+QRf9lYikaCG9fV1CgkEArDb7SD5bJZDMmZHOmGjVWR4tdyt37p/r7FIxJvlS0tLIHI4HNRE9kxAq6urtJ/ejPEAljf6+f4aX2EaRqMRYrFYLiooKMB+Rc6GgCORCDweDxiGmaMAlmXhdDoxMTGBwcFBOpnE5eVlmhdy5GC9Xi8WFxcRDAZRWVkZogAySTARCBHJCXkhmha8mGJdVHbfCi5UXFnbAyASzDsBZcxZtChuou51GW5IStCh7ERJ2SXrni0IIBKFLXS+fYxnnxl8Yfswt6JFj+42rvYcwynmqGVfh1j1/AyG5t9gyCqjVyzV30KPXozCxgNp+pBkMpl8fHwcwSh/lQELrL5ZzHt+YNY5hWm7Cedbj2OUfYedbdjSRwB/37NUKs3reNGu/zSsgueXjUIIYMY5iWnHdxTfOYRubQ26tNXU3DVWLVSQ2v5MbW1teY9aHww0NNdxmjE1Jue/UYjFbUbrQD0qpIfxSltLVyaRjHmAVLT7ezY3N52sa6jtv15TxV6+djFcXlEaLi0/xxYzR2YLGw8mSdm84rwkZP4fYOfdUwjREaAAAAAASUVORK5CYII=",
+      "link": "https://virtuales.camarabaq.org.co/Paginas/login.aspx"
+    }, {
+      "id": 3,
+      "name": "Prmigas",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKGSURBVDjLpZNPSFRhFMV/33vfzDjOvBmlRkuz0THKIjGN2qSrFkFEBUFBG1fhtkW7aB1UUNDCyIJaRC3aRAXWxkroHxpCRGaY2uS/GWfUGUfffPPe+1poUbvCs77n3HPvuVdorVkP5P8Ujz3ae0IVtj80w80U5l4i7MlO8a8OfvQmTsvAyXvBjR1EG1pZGHvD8PNbs/JCz7u+snKrdS5fCi3ZjuFp8NC4nsbTGldrmq234kx7p4hWtJEd/YxfKKzIJsoq4zEZq4zWdR3bHimWtCgLmH91FYDKvEKlM0QThyhOP8BfLpgYGsb1/Fwe25c0UjknoRxP3OubJjmnKBQ1ExmPZNYjOdaHSvUSbTyMPdWD8M3jC1tgz2Hu7WK5YvdWo1B0RcBnULs5wvPBFAtLJaojgpXxx5QvPCO67Sj2ZDeGr4TK1TP1YoiB6vPE6psAhFy2HQASm8IIDb0DKdo3DOLLvaaq/Qhq5hamX2Mvxpnp/8DgtmtsrGtE6FWeUbDd1TxNSNSEiWaeYWbfo9wapj9ex8OmkK0l2f+JgcQVahsaCf4RviysrCoJAU7JwTd9n13Hb/PlwTlG+l8T2NqCPZ9mvu0ivnAMQztIn/y9ZWO56KIBpRxms3lGvqVRn57Q0NJBKLSDyaFR9IFLNDXvoX6zRXYhj+c4aA1ogVwuOtr1tEhl8tTFLO58TXH1Zjf7dzbgj7fQfOou/sgWPDSy3I+ssphK51ipCIL2tCxkJ8eLyok3bQmKcNAQN54mMdZGEkKsOfUQvw4DSbzS8sZn8iqX/jEl1VJ64uDZ3sqAFQrJgCmkNDFMgWmAYQgMucpb00KAdh2lVhbnM+nR5Hex3m80WCd+AqUYHPPwkaN5AAAAAElFTkSuQmCC",
+      "link": "https://linea.ccb.org.co/apprenovaciones/index.html#!/"
+    }, {
+      "id": 3,
+      "name": "Alcanos",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKGSURBVDjLpZNPSFRhFMV/33vfzDjOvBmlRkuz0THKIjGN2qSrFkFEBUFBG1fhtkW7aB1UUNDCyIJaRC3aRAXWxkroHxpCRGaY2uS/GWfUGUfffPPe+1poUbvCs77n3HPvuVdorVkP5P8Ujz3ae0IVtj80w80U5l4i7MlO8a8OfvQmTsvAyXvBjR1EG1pZGHvD8PNbs/JCz7u+snKrdS5fCi3ZjuFp8NC4nsbTGldrmq234kx7p4hWtJEd/YxfKKzIJsoq4zEZq4zWdR3bHimWtCgLmH91FYDKvEKlM0QThyhOP8BfLpgYGsb1/Fwe25c0UjknoRxP3OubJjmnKBQ1ExmPZNYjOdaHSvUSbTyMPdWD8M3jC1tgz2Hu7WK5YvdWo1B0RcBnULs5wvPBFAtLJaojgpXxx5QvPCO67Sj2ZDeGr4TK1TP1YoiB6vPE6psAhFy2HQASm8IIDb0DKdo3DOLLvaaq/Qhq5hamX2Mvxpnp/8DgtmtsrGtE6FWeUbDd1TxNSNSEiWaeYWbfo9wapj9ex8OmkK0l2f+JgcQVahsaCf4RviysrCoJAU7JwTd9n13Hb/PlwTlG+l8T2NqCPZ9mvu0ivnAMQztIn/y9ZWO56KIBpRxms3lGvqVRn57Q0NJBKLSDyaFR9IFLNDXvoX6zRXYhj+c4aA1ogVwuOtr1tEhl8tTFLO58TXH1Zjf7dzbgj7fQfOou/sgWPDSy3I+ssphK51ipCIL2tCxkJ8eLyok3bQmKcNAQN54mMdZGEkKsOfUQvw4DSbzS8sZn8iqX/jEl1VJ64uDZ3sqAFQrJgCmkNDFMgWmAYQgMucpb00KAdh2lVhbnM+nR5Hex3m80WCd+AqUYHPPwkaN5AAAAAElFTkSuQmCC",
+      "link": "https://linea.ccb.org.co/apprenovaciones/index.html#!/"
+    }
+  ]
 }
 ]
