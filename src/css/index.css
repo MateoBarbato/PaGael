@@ -87,7 +87,7 @@
 .companylist .cardContainer{
     display:grid;
     width: 18rem;
-    height: 15rem;
+    height: 18rem;
     box-shadow: 10px 10px 24px 0px rgba(0,0,0,0.75);
     align-items: center;
     justify-content: center;
