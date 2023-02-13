@@ -4,7 +4,6 @@
     font-size: 29px;
 }
 
-
 .navbar-img{
     height: 100%;
 }
@@ -38,6 +37,14 @@
     box-shadow: 10px 10px 24px 0px rgba(0,0,0,0.75);
 }
 
+.instructions{
+    padding: 2vh 0px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+
+}
+
 .cardContainer a {
     text-decoration: none;
     color: inherit;
@@ -68,7 +75,7 @@
 .goback a{
     color: rgba(41, 40, 40, 0.89);
     /* text-decoration: none; */
-    font-size: 25px;
+    font-size: 18px;
     font-family:Arial, Helvetica, sans-serif;
     font-weight: 500;
     text-shadow: 1px 3px 4px rgba(122, 121, 121, 0.83);

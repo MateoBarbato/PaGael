@@ -16,11 +16,17 @@ const CompanyList = () => {
     return(
         <>        
         <Container className="companyListContainer">
+        <h2>Usted esta en: {company}</h2>
+        <div className="instructions">
+            <p>Para pagar el servicio haga click en la imagen y lo re-enviara al lugar de pago</p>
+        </div>
         <div className="goback">
             <Link  to="/">
                 <span >Ir atras</span>
             </Link>
         </div>
+
+        
             <div className="companylist">
                 {newdb.map((company,index)=>{
                     return <Mycard key={index} image={`assets/logos company/${company.image}`} title={company.name} link={company.link}/>
