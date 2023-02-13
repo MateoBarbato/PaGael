@@ -1,4 +1,7 @@
-{
+{ "name": "Pagael",
+ "homepage": "http://pagael.com.co",
+ "version": "1.0.0",
+ "description": "my react application",
   "name": "pagalo",
   "version": "0.1.0",
   "private": true,
