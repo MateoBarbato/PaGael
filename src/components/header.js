@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 const Header = () => {
   return (
         <header className="header">
-          <Navbar className="brand-center" bg="secondary" variant="dark">
+          <Navbar className="brand-center" bg="light" variant="dark">
         <Container className="justify-content-center">
           <Navbar.Brand  href="#home">
             <img
