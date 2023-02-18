@@ -1,8 +1,4 @@
-{
-  "name": "hostinger-react",
-  "homepage": "http://pagael.com.co",
-  "version": "1.0.0",
-  "description": "my react application",
+
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
