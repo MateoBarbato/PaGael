@@ -1,41 +1,158 @@
-[{
+[
+  {
     "id": 1,
-    "name": "Wordware",
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAINSURBVDjLpZPNS1VhEIefc7wXTNQopKTM4IKRaB+GliQtKgpau3NjRcsIzEW1EQIR2kRUUP9AtHFhi4rAqKBCUDOEkDIQPzIIWpjX7jnvO+9Mi3uvUBAIDgzMDDMP/JiZyMzYjMVs0jYNyDDc9h8NCl5BPIiCdyChWAuAM0ghA0BTzz+z+rcHhRCKsQ+lWODN4xIAYHUZVLFQahDBgoAXTHwx9x4TAfFkd+yHgpUBBmbQfoMoW4N9fIiFQHzoEkiB8LyP+Nwdomwl8uoWtjgF3pcAIkVtppCtxcZuEnUOEIUUnXgAQYmPXqb/WQ/5NM/dg/3E85PrgBjviwA1iDNQvRdUsJUl4uPXidsuorMvSILQUNfM+fFBnAqIQGpkKCRFfapEQNTai319St/UfUwdzgJOhF3bmmiuP8Zqskb30hgjfjdbUiNDWqKpgnp08h5xx1Vk8jZnWnoJpgQNKMbyyiIHGrrIuwInF0YY1SoyFAxSDyg6egVECE8ukIgjmDL/cxavgqjHB8+vdJXDe06Q97/pOPK2BPCeKFQSlVcYAokkSBB21jYiGgimfF9ZYHt1PR8W3zEzN87w9FYiu1ZveFu/LIKBg+6uahLncOpIxJGra6Ezd5aJhfdMfxrl0UwN+5IKoo1+Y+tgvNbeeKrq9ZeX35xyennIPgMbB+QGorWgFVUFDbkfQzZXrv8BKB9RM6Fzq8AAAAAASUVORK5CYII=",
-    "link": "Job"
-  }, {
+    "name": "Movistar",
+    "image": "Movistar.png",
+    "link": "https://movistar.recaudo.epayco.co/"
+  },
+  {
     "id": 2,
-    "name": "Jabberbean",
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKmSURBVDjLjZPdS5NRHMf3D+h9XXVZRGBXBpYEdSGUaNkLoZWPmNNEI4tekMg0c+HKGLoldhFuBa2bKSm57WI2Wcryhfm4t/biptNRc29uzu2Z+/acU4+Y3njgy++cH+f7Ob/zJgIg2imTyVRkMBh6dTrdzMjIyG+NRhNRq9UOlUql+KBUnN49f7tjNpvzeLOcN2f8fj/C4TDi8TiSySRisRhsNisUfZ1cv7xD2SuT5P8H+Gf+6na7kcvlkEqlQCA+nw+hUAjZbBa57Aa4DQcM+o/ofvnQKOl6kr8NICsTcyaTAWkcx4GMXS4XotEohaY3VrCZsGJr8ye0o+/R/rRJSQG8+QRf9lYikaCG9fV1CgkEArDb7SD5bJZDMmZHOmGjVWR4tdyt37p/r7FIxJvlS0tLIHI4HNRE9kxAq6urtJ/ejPEAljf6+f4aX2EaRqMRYrFYLiooKMB+Rc6GgCORCDweDxiGmaMAlmXhdDoxMTGBwcFBOpnE5eVlmhdy5GC9Xi8WFxcRDAZRWVkZogAySTARCBHJCXkhmha8mGJdVHbfCi5UXFnbAyASzDsBZcxZtChuou51GW5IStCh7ERJ2SXrni0IIBKFLXS+fYxnnxl8Yfswt6JFj+42rvYcwynmqGVfh1j1/AyG5t9gyCqjVyzV30KPXozCxgNp+pBkMpl8fHwcwSh/lQELrL5ZzHt+YNY5hWm7Cedbj2OUfYedbdjSRwB/37NUKs3reNGu/zSsgueXjUIIYMY5iWnHdxTfOYRubQ26tNXU3DVWLVSQ2v5MbW1teY9aHww0NNdxmjE1Jue/UYjFbUbrQD0qpIfxSltLVyaRjHmAVLT7ezY3N52sa6jtv15TxV6+djFcXlEaLi0/xxYzR2YLGw8mSdm84rwkZP4fYOfdUwjREaAAAAAASUVORK5CYII=",
-    "link": "Temp"
-  }, {
+    "name": "Claro ",
+    "image": "Claro.png",
+    "link": "https://portalpagos.claro.com.co/index.php?view=vistas/personal/claro/newclaro/inicio.php&id_objeto=#no-back-button"
+  },
+  {
     "id": 3,
-    "name": "Kaymbo",
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKGSURBVDjLpZNPSFRhFMV/33vfzDjOvBmlRkuz0THKIjGN2qSrFkFEBUFBG1fhtkW7aB1UUNDCyIJaRC3aRAXWxkroHxpCRGaY2uS/GWfUGUfffPPe+1poUbvCs77n3HPvuVdorVkP5P8Ujz3ae0IVtj80w80U5l4i7MlO8a8OfvQmTsvAyXvBjR1EG1pZGHvD8PNbs/JCz7u+snKrdS5fCi3ZjuFp8NC4nsbTGldrmq234kx7p4hWtJEd/YxfKKzIJsoq4zEZq4zWdR3bHimWtCgLmH91FYDKvEKlM0QThyhOP8BfLpgYGsb1/Fwe25c0UjknoRxP3OubJjmnKBQ1ExmPZNYjOdaHSvUSbTyMPdWD8M3jC1tgz2Hu7WK5YvdWo1B0RcBnULs5wvPBFAtLJaojgpXxx5QvPCO67Sj2ZDeGr4TK1TP1YoiB6vPE6psAhFy2HQASm8IIDb0DKdo3DOLLvaaq/Qhq5hamX2Mvxpnp/8DgtmtsrGtE6FWeUbDd1TxNSNSEiWaeYWbfo9wapj9ex8OmkK0l2f+JgcQVahsaCf4RviysrCoJAU7JwTd9n13Hb/PlwTlG+l8T2NqCPZ9mvu0ivnAMQztIn/y9ZWO56KIBpRxms3lGvqVRn57Q0NJBKLSDyaFR9IFLNDXvoX6zRXYhj+c4aA1ogVwuOtr1tEhl8tTFLO58TXH1Zjf7dzbgj7fQfOou/sgWPDSy3I+ssphK51ipCIL2tCxkJ8eLyok3bQmKcNAQN54mMdZGEkKsOfUQvw4DSbzS8sZn8iqX/jEl1VJ64uDZ3sqAFQrJgCmkNDFMgWmAYQgMucpb00KAdh2lVhbnM+nR5Hex3m80WCd+AqUYHPPwkaN5AAAAAElFTkSuQmCC",
-    "link": "Rank"
-  }, {
+    "name": "Tigo ",
+    "image": "Tigo.png",
+    "link": "https://transacciones.tigo.com.co/servicios/facturas"
+  },
+  {
     "id": 4,
-    "name": "Gabcube",
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAK4SURBVBgZBcFfaFV1AADg7/zO2Zy7A3fVebdEQ2yCoeVfmmhQGlRgmCg0sEAoeivvWy/BiigYvoi9hPYgEfQYKGVgiIhaaJPSVlC6hU7v9Pon166755577+n7ovRtvZ3LjUiUAQQEAAQAQBO3HWrc8HHSudyIwRfLShuJOwgJUUSIiAIhIkSIiRAhb3H7Urnz++MSibLSRtKY/s3EuPsH9y4TAnFAIEYUyHN6FrNkA0uOlxMQdxC6WL8bsJusxt+nuPYdrVlE5DkiHk7TtYg2QRtRwuMKV79l4hy1Kh0Fnn6dVw/zxBAgIsuoZzQbNEgEhIjHFX7/mhCRBBavY92bLFjOcwe4fIRrp0ibNFKyFnWCgID+zez9iu2f8NQuZiY4/QE3zgIb3qW0jjSl3iRr0iBoQ0yEjgJ9q3l2H68cpncFY1/wzxlgywHyedQzshZ1goAID37j5PuMHaFWpaObbR/Ss5Szh5idprOHNTupN8naNEgEhEAemLurfv20cxfGXElXKi7qc/9en709tyz88XNfTixSLBY99JJnJqu2pbFEGyLiXLap7JsT5/2Xd9r31htqtZqpqSnHf0p136l6bd9+cRyrVCrGxsbcbKySgJDTt8aFyYbrlX/tGR527NP3nJ+c0z8wYO3atSYezbl48KDp6WlbV5Zs27vfyckdEiBi7q5fxy8pFAqgvHrGmT8bhoeHFYtFs7OzqtWqo0ePKj8/6BcUehdKNJA30TJw/5yfHw2A0cvztNoNo6OjCoUCqNVq8mZm9MRFO97ZqnrrpvijQb365w8pDpo/v9vZ8WnpXGrV+i02DW21bNkyrVZLqVQyNDTkhe3bDawY9Nf4VdfGrzyI0pf1dvYb0a/cajE52+Oz25t1L3lSx7wu7Zw9d36wMJtzbOkurSjI0rp7lamZBTMPdv4PY0MOogadRGMAAAAASUVORK5CYII=",
-    "link": "Zoolab"
-  }, {
+    "name": "Dirctv ",
+    "image": "Directv.png",
+    "link": "https://directv.paymentez.com/#no-back-button"
+  },
+  {
     "id": 5,
-    "name": "Podcat",
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHbSURBVDjLdVK9qhpREJ7j7vrLGlhRiaCFFikkT2BxQZs8Q7pgJ9rcVuIj3MYHSJdXUAj+FDa2wSaIIihcJVUs1t91c75z7yyLd+8Hw5k5M9/MnDkjXNclYDqdDhzHqV6vV5In4fTL5XLx68N6vV4DTyCBJD/EYrFxsVik8/lM9+AigGEYNBqNaL1e15rN5lDHpczasSyLttstRSIRj+QnQt9sNpRMJqlUKtFyuWzL66GYTCYP8Xh8XCgUaL/fqw5Y0C6IQgjSNE1VN02TEokEDQYDWq1WNV2+p5NOp9UbERSNRpVwdX8nOG+3Gx2PRyqXyzSfz9s6qhwOB9rtdmTbtkeAcAcgASgCW9d1ymQyyo8EVVSezWaqVSbjCaFQyEsAMvsBDFzeVXX+nnw+T6fTSQVDkBQ+fCnPATZ8sJmn87/LqaqKnIBnwglgc0cAYlQCOFKpFFUqFS+Yg2BzMMh+fy6X8xL0e73eF27pbuPebCRvKU4pfeFfFkar1focDod/Z7NZZcutu3W7XY0CIBqNhhvkIC1inzVLraXh/LOFY5tBYWqVsZr3WCwW8WK1ofTNr+/mOzEvCaDc469buHywHYN1GWQEPiFoBsDHr3+e5PHt1fzx/PPTY1Dcf079mla6MmR7AAAAAElFTkSuQmCC",
-    "link": "Veribet"
-  }, {
+    "name": "Itelkom ",
+    "image": "itelkom.png",
+    "link": "https://clientes.itelkom.co/client/login"
+  },
+  {
     "id": 6,
-    "name": "Talane",
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIySURBVDjLpdNdTFJhGAdw120X3XXR5kU33fQxS0+5Yl24lFnQKsvl2nJLM0fmXLNASceKgAv8yBGgJPEhkcIShEEYKuKU1IxcTm0WUDiJ1Fpbm1tZ/855186oLS/k4r/34n2e355z9rwZADLSyX8vCm+WU6fqT38+21S4ztPy1rmK4lXF5Ry//Hwm6LjoHN8QOGOgUOe9iGByCJ7FJ5BMX0ORiosfa1/wTHqQIAQ4VCHbwpXL53iWHPAe7QefJAvq4G2MLY9gcnUcQ0kf/AkvAm4DPvhl6Lq+jwEuESD7inLrCWXJ10BygC56SgpHlofxfGUMjvhjDH7sR1e0Hfq3VmiqKSwOt6CldCcD7CDA3qrOXfRo37tjRojC5SRt81KYIxp4lxx0+mCOaqEON8NeR2Ght5ppBvsTT9Yqai60F/y0vTehPlyBW+FKAliiOvQnPGQKY+Q+TOOdCCjzEPU2/A1wxIaH3a8N0C20ouGVAI3TVVC9kcEa0yO0MgrfkptM0mprwqypGKG2AgaYYYEsqfGFI94D4csy1E6VonlWgt64Fb6EG7aYGTdGK1ETEv6yu+wEcDQeZoA7LHBEJfxkiejQQxczccZtEE8JwHNRKLMK1rRzng6R3xU8kLkdM/oidAh2M8BRFsi7W/Iu38wBty8bXCcdSy6OyfjfUneCbjj34OoeMkHq92+4SP8A95wSTlrA/ISGnxZAmgeV+ewKbwqwi3MZQLQZQP3nFTLnttS73y9CuFIqo/imAAAAAElFTkSuQmCC",
-    "link": "Zamit"
-  }, {
+    "name": "Hugesnet ",
+    "image": "Hugesnet.png",
+    "link": "https://plataformav3.facture.co/plataforma/payment-colletor/900971687"
+  },
+  {
     "id": 7,
-    "name": "Skimia",
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIMSURBVDjLfZI9aJNxEMZ/bxJp+hGViBLEgtKKTo52yeBUnETBSVwEO4ibg2TqUAQLgptF6SjiouimOEqpFqSLCB2qIiINYmPT5s378f/fnUOSJmmKBw83Pb97uLvAzOjUxXvv7calST78qKHeEFFEFBXFe6U8cYSFZ6t8WrgadDw5ekpFUDW8axt9q4tvyXtDvPRa+gG705y0TD3mXeAeQKYvgRfCpuN4YQiXSp/GDw3TaCaI/DeBzP35tjx7beIdRwufyQd1VI3QjVJ1Z3n65QLqx+Z6PUHvEuXjqZkwHXo4cvL2GCNnMDKYRpiro9trbK09bgyxc6d4JVkcAPjlE1MYr5l8VLLsQdTXwO9gEmISQxCAOBqrlaqkXC5dt5W+HZi4CuN3S5Y7jPktkAiTuK0QTX5jGpI/favktqkM7EB9Ws6OnsP8NqZxW0lbMaZN1P0lM3IMF1IeuIKqFC2TwzQCTdqKu5IYpAHm8CnFQYAomAdNu9E706WbCEvw6T5/oF5q5uqYuT3R4y4ERdImLqI2CHDxkmyuEATZ/vjS7ubIZIaJNn7SrLM0AJCY+cbq/arGm5DNY+YxaSdBCXIFfBzw9eWbahQyv+8jbTwJZsQxVzh/s3SgOAGBYT5E0jrhr3XWn7+tRiGz0y9scV8AwPcHwVRap+JjyuIpugTiJrU4ZEmE+elXrQfq1D+32LPJr7b2hgAAAABJRU5ErkJggg==",
-    "link": "Bigtax"
-  }, {
+    "name": "Dialnet ",
+    "image": "Dialnet.png",
+    "link": "https://dialnet.net/portal-pagos/buscar"
+  },
+  {
     "id": 8,
-    "name": "Abata",
-    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGGSURBVDjLpZM7a1VREIW/fXKTIhAfVSQIIY2PWkEELe0FiZVgWkvBVhCsrLUQ/AdpxCKIhelstRCiAcFExEbRhAu5j71nLYtzvSeHXF9kYLOb2d+etWYm2eYw0QFYefTmNrAIXALOgY1JyFRVokogCQU70x1/OH3yyHlk7lw7k7DNzYevn/g/48Hqhm3XFQCXAW6sXscIy4SEJCKCCBEKIgJJvLi1zvtPO4OxBOQTAMM8ZH7h2B81b25sA9Dr55kxwPYsQM6Zz9tfsY0MViC51m/j0Q3giNQA5A7A05W1f3ZfIfYDEsDyvZf0JWRYu3+Fj192Jz5eWjiKFQBUNaCmfetlLpyd53uvjJPnZmda51e4tAC1rm4/yDZ7g9L6MYfJ0R44qTSANKpgMMj0chD9/FcPXIb7PKChT5rs6al0EODSAFRkIAE8f7XVSuzuDSdXMOpnByCkLWDp7eOrB9z+rQT7RzOJoWfLd9dP2b6IdFwqYGEFVgEHlqg31wZ1oXoHkA67zj8BVEcprN9nEQAAAAAASUVORK5CYII=",
-    "link": "Tempsoft"
-  }]
+    "name": "Wom ",
+    "image": "wom.png",
+    "link": "https://app.wom.co/funcionalidadRecaudo/paymentBill/"
+  },
+  {
+    "id": 9,
+    "name": "Aire ",
+    "image": "Air-e.png",
+    "link": "https://caribesol.facture.co/Pagar?_ga=2.207164179.1877455598.1673382767-1170653496.1673382767#/List"
+  },
+  {
+    "id": 10,
+    "name": "Vatia",
+    "image": "Vatia.png",
+    "link": "https://colombia.recaudoexpress.com/sites/vatia/facturacion.xhtml"
+  },
+  {
+    "id": 11,
+    "name": "Essa ",
+    "image": "Essa.png",
+    "link": "https://www.essa.com.co/site/mi-factura/consulta-y-descarga-tu-factura/paga-tu-factura"
+  },
+  {
+    "id": 12,
+    "name": "Enel ",
+    "image": "Enel.png",
+    "link": "https://www.enel.com.co/es/personas/servicio-al-cliente/boton-de-pago.html"
+  },
+  {
+    "id": 13,
+    "name": "Afinia ",
+    "image": "Afinia.png",
+    "link": "https://caribemar.facture.co/Pagar#/List"
+  },
+  {
+    "id": 14,
+    "name": "Aportes",
+    "image": "Aportes al linia.png",
+    "link": "https://www.aportesenlinea.com/Autoservicio/PagoElectronico.aspx"
+  },
+  {
+    "id": 15,
+    "name": "Mi planilla",
+    "image": "miplanilla.png",
+    "link": "https://independientes.miplanilla.com/Registro/Pago/PagosPSE"
+  },
+  {
+    "id": 16,
+    "name": "Simple",
+    "image": "simple.png",
+    "link": "https://pagosimple.pagodigital.co/"
+  },
+  {
+    "id": 17,
+    "name": "Arus",
+    "image": "Arus.png",
+    "link": "https://www.suaporte.com.co/sso/#/login"
+  },
+  {
+    "id": 18,
+    "name": "Soi",
+    "image": "soi.png",
+    "link": "https://servicio.nuevosoi.com.co/soi/pagoPlanillaPSEHomeComercial.do"
+  },
+  {
+    "id": 19,
+    "name": "Aso pagos",
+    "image": "Aso pagos.png",
+    "link": "https://www.enlace-apb.com/interssi/.plus"
+  },
+  {
+    "id": 20,
+    "name": "Gas caribe",
+    "image": "Gases del caribe.png",
+    "link": "https://portal.gascaribe.com/payments"
+  },
+  {
+    "id": 21,
+    "name": "Surtigas",
+    "image": "Surtigas.png",
+    "link": "https://www.psepagos.co/PSEHostingUI/ShowTicketOffice.aspx?ID=11774"
+  },
+  {
+    "id": 22,
+    "name": "Prmigas",
+    "image": "Promigas.png",
+    "link": "https://www.psepagos.co/PSEHostingUI/ShowTicketOffice.aspx?ID=11768"
+  },
+  {
+    "id": 23,
+    "name": "Alcanos",
+    "image": "Alcanos.png",
+    "link": "https://pagosvirtuales.alcanosesp.com/"
+  },
+  {
+    "id": 24,
+    "name": "Dian",
+    "image": "Dian.png",
+    "link": "https://muisca.dian.gov.co/WebArquitectura/DefLoginOld.faces"
+  },
+  {
+    "id": 25,
+    "name": "Camara baq",
+    "image": "camara de comercio baq.png",
+    "link": "https://virtuales.camarabaq.org.co/Paginas/login.aspx"
+  },
+  {
+    "id": 26,
+    "name": "Camara bogota",
+    "image": "camara de comercio bogota.png",
+    "link": "https://linea.ccb.org.co/apprenovaciones/index.html#!/"
+  }
+]

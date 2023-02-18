@@ -1,18 +1,12 @@
-import React from 'react';
+import React from "react";
 import { Container } from 'react-bootstrap';
 import Mycard from './card';
 import { Link } from 'react-router-dom';
-import { useParams } from 'react-router-dom';
 
+const AllCompaniesList = ({data}) => {
 
-const CompanyList = () => {
-  const { company } = useParams();
-
-
-
-  return (
-    <>
-      <Container className='companyListContainer'>
+    return(
+        <Container className='companyListContainer'>
         <div className='text'>
           <h2>asd</h2>
           <div className='instructions'>
@@ -48,8 +42,8 @@ const CompanyList = () => {
           </Link>
         </div>
       </Container>
-    </>
-  );
-};
+    )
 
-export default CompanyList;
+}
+
+export default AllCompaniesList

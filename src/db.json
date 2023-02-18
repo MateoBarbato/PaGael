@@ -1,168 +1,193 @@
-[{
-  "id": 1,
-  "name": "Internet",
-  "image": "technology-gec1a80034_1920.jpg",
-  "companies":[
-    {
+[
+  {
     "id": 1,
-    "name": "Movistar",
-    "image": "Movistar.png",
-    "link": "https://movistar.recaudo.epayco.co/"
-  }, {
+    "name": "Internet",
+    "image": "technology-gec1a80034_1920.jpg",
+    "companies": [
+      {
+        "id": 1,
+        "name": "Movistar",
+        "image": "Movistar.png",
+        "link": "https://movistar.recaudo.epayco.co/"
+      },
+      {
+        "id": 2,
+        "name": "Claro ",
+        "image": "Claro.png",
+        "link": "https://portalpagos.claro.com.co/index.php?view=vistas/personal/claro/newclaro/inicio.php&id_objeto=#no-back-button"
+      },
+      {
+        "id": 3,
+        "name": "Tigo ",
+        "image": "Tigo.png",
+        "link": "https://transacciones.tigo.com.co/servicios/facturas"
+      },
+      {
+        "id": 4,
+        "name": "Dirctv ",
+        "image": "Directv.png",
+        "link": "https://directv.paymentez.com/#no-back-button"
+      },
+      {
+        "id": 5,
+        "name": "Itelkom ",
+        "image": "itelkom.png",
+        "link": "https://clientes.itelkom.co/client/login"
+      },
+      {
+        "id": 6,
+        "name": "Hugesnet ",
+        "image": "Hugesnet.png",
+        "link": "https://plataformav3.facture.co/plataforma/payment-colletor/900971687"
+      },
+      {
+        "id": 7,
+        "name": "Dialnet ",
+        "image": "Dialnet.png",
+        "link": "https://dialnet.net/portal-pagos/buscar"
+      },
+      {
+        "id": 8,
+        "name": "Wom ",
+        "image": "wom.png",
+        "link": "https://app.wom.co/funcionalidadRecaudo/paymentBill/"
+      }
+    ]
+  },
+  {
     "id": 2,
-    "name": "Claro ",
-    "image": "Claro.png",
-    "link": "https://portalpagos.claro.com.co/index.php?view=vistas/personal/claro/newclaro/inicio.php&id_objeto=#no-back-button"
-  }, {
+    "name": "Electricidad",
+    "image": "electricity-g968b1227d_1920.jpg",
+    "companies": [
+      {
+        "id": 1,
+        "name": "Aire ",
+        "image": "Air-e.png",
+        "link": "https://caribesol.facture.co/Pagar?_ga=2.207164179.1877455598.1673382767-1170653496.1673382767#/List"
+      },
+      {
+        "id": 2,
+        "name": "Vatia",
+        "image": "Vatia.png",
+        "link": "https://colombia.recaudoexpress.com/sites/vatia/facturacion.xhtml"
+      },
+      {
+        "id": 3,
+        "name": "Essa ",
+        "image": "Essa.png",
+        "link": "https://www.essa.com.co/site/mi-factura/consulta-y-descarga-tu-factura/paga-tu-factura"
+      },
+      {
+        "id": 4,
+        "name": "Enel ",
+        "image": "Enel.png",
+        "link": "https://www.enel.com.co/es/personas/servicio-al-cliente/boton-de-pago.html"
+      },
+      {
+        "id": 5,
+        "name": "Afinia ",
+        "image": "Afinia.png",
+        "link": "https://caribemar.facture.co/Pagar#/List"
+      }
+    ]
+  },
+  {
     "id": 3,
-    "name": "Tigo ",
-    "image": "Tigo.png",
-    "link": "https://transacciones.tigo.com.co/servicios/facturas"
-  }, {
+    "name": "Planilla",
+    "image": "hands-gc1721ddcf_1920.jpg",
+    "companies": [
+      {
+        "id": 1,
+        "name": "Aportes",
+        "image": "Aportes al linia.png",
+        "link": "https://www.aportesenlinea.com/Autoservicio/PagoElectronico.aspx"
+      },
+      {
+        "id": 2,
+        "name": "Mi planilla",
+        "image": "miplanilla.png",
+        "link": "https://independientes.miplanilla.com/Registro/Pago/PagosPSE"
+      },
+      {
+        "id": 3,
+        "name": "Simple",
+        "image": "simple.png",
+        "link": "https://pagosimple.pagodigital.co/"
+      },
+      {
+        "id": 4,
+        "name": "Arus",
+        "image": "Arus.png",
+        "link": "https://www.suaporte.com.co/sso/#/login"
+      },
+      {
+        "id": 5,
+        "name": "Soi",
+        "image": "soi.png",
+        "link": "https://servicio.nuevosoi.com.co/soi/pagoPlanillaPSEHomeComercial.do"
+      },
+      {
+        "id": 6,
+        "name": "Aso pagos",
+        "image": "Aso pagos.png",
+        "link": "https://www.enlace-apb.com/interssi/.plus"
+      }
+    ]
+  },
+  {
     "id": 4,
-    "name": "Dirctv ",
-    "image": "Directv.png",
-    "link": "https://directv.paymentez.com/#no-back-button"
-  }, {
+    "name": "Otros",
+    "image": "finger-g924cb8e5c_1280.jpg",
+    "companies": [
+      {
+        "id": 1,
+        "name": "Dian",
+        "image": "Dian.png",
+        "link": "https://muisca.dian.gov.co/WebArquitectura/DefLoginOld.faces"
+      },
+      {
+        "id": 2,
+        "name": "Camara baq",
+        "image": "camara de comercio baq.png",
+        "link": "https://virtuales.camarabaq.org.co/Paginas/login.aspx"
+      },
+      {
+        "id": 3,
+        "name": "Camara bogota",
+        "image": "camara de comercio bogota.png",
+        "link": "https://linea.ccb.org.co/apprenovaciones/index.html#!/"
+      }
+    ]
+  },
+  {
     "id": 5,
-    "name": "Itelkom ",
-    "image": "itelkom.png",
-    "link": "https://clientes.itelkom.co/client/login"
-  }, {
-    "id": 6,
-    "name": "Hugesnet ",
-    "image": "Hugesnet.png",
-    "link": "https://plataformav3.facture.co/plataforma/payment-colletor/900971687"
-  }, {
-    "id": 7,
-    "name": "Dialnet ",
-    "image": "Dialnet.png",
-    "link": "https://dialnet.net/portal-pagos/buscar"
-  }, {
-    "id": 8,
-    "name": "Wom ",
-    "image": "wom.png",
-    "link": "https://app.wom.co/funcionalidadRecaudo/paymentBill/"
-  }]
-},
-{
-  "id": 2,
-  "name": "Electricidad",
-  "image": "electricity-g968b1227d_1920.jpg",
-  "companies":[
-    {
-    "id": 1,
-    "name": "Aire ",
-    "image": "Air-e.png",
-    "link": "https://caribesol.facture.co/Pagar?_ga=2.207164179.1877455598.1673382767-1170653496.1673382767#/List"
-  }, {
-    "id": 2,
-    "name": "Vatia",
-    "image": "Vatia.png",
-    "link": "https://colombia.recaudoexpress.com/sites/vatia/facturacion.xhtml"
-  }, {
-    "id": 3,
-    "name": "Essa ",
-    "image": "Essa.png",
-    "link": "https://www.essa.com.co/site/mi-factura/consulta-y-descarga-tu-factura/paga-tu-factura"
-  }, {
-    "id": 4,
-    "name": "Enel ",
-    "image": "Enel.png",
-    "link": "https://www.enel.com.co/es/personas/servicio-al-cliente/boton-de-pago.html"
-  }, {
-    "id": 5,
-    "name": "Afinia ",
-    "image": "Afinia.png",
-    "link": "https://caribemar.facture.co/Pagar#/List"
-  }]
-},
-{
-  "id":3,
-  "name":"Planilla",
-  "image":"hands-gc1721ddcf_1920.jpg",
-  "companies":[
-    {
-    "id": 1,
-    "name": "Aportes",
-    "image": "Aportes al linia.png",
-    "link": "https://www.aportesenlinea.com/Autoservicio/PagoElectronico.aspx"
-  }, {
-    "id": 2,
-    "name": "Mi planilla",
-    "image": "miplanilla.png",
-    "link": "https://independientes.miplanilla.com/Registro/Pago/PagosPSE"
-  }, {
-    "id": 3,
-    "name": "Simple",
-    "image": "simple.png",
-    "link": "https://pagosimple.pagodigital.co/"
-  }, {
-    "id": 4,
-    "name": "Arus",
-    "image": "Arus.png",
-    "link": "https://www.suaporte.com.co/sso/#/login"
-  }, {
-    "id": 5,
-    "name": "Soi",
-    "image": "soi.png",
-    "link": "https://servicio.nuevosoi.com.co/soi/pagoPlanillaPSEHomeComercial.do"
-  },{
-    "id": 6,
-    "name": "Aso pagos",
-    "image": "Aso pagos.png",
-    "link": "https://www.enlace-apb.com/interssi/.plus"
-  }]
-  
-},{
-  "id":4,
-  "name":"Otros",
-  "image":"finger-g924cb8e5c_1280.jpg",
-  "companies":[
-    {
-      "id": 1,
-      "name": "Dian",
-      "image": "Dian.png",
-      "link": "https://muisca.dian.gov.co/WebArquitectura/DefLoginOld.faces"
-    }, {
-      "id": 2,
-      "name": "Camara baq",
-      "image": "camara de comercio baq.png",
-      "link": "https://virtuales.camarabaq.org.co/Paginas/login.aspx"
-    }, {
-      "id": 3,
-      "name": "Camara bogota",
-      "image": "camara de comercio bogota.png",
-      "link": "https://linea.ccb.org.co/apprenovaciones/index.html#!/"
-    }
-  ]
-},
-{
-  "id":5,
-  "name":"Gas",
-  "image":"chemistry-gc5fe3026a_1920.jpg",
-  "companies":[
-    {
-      "id": 1,
-      "name": "Gas caribe",
-      "image": "Gases del caribe.png",
-      "link": "https://portal.gascaribe.com/payments"
-    }, {
-      "id": 2,
-      "name": "Surtigas",
-      "image": "Surtigas.png",
-      "link": "https://www.psepagos.co/PSEHostingUI/ShowTicketOffice.aspx?ID=11774"
-    }, {
-      "id": 3,
-      "name": "Prmigas",
-      "image": "Promigas.png",
-      "link": "https://www.psepagos.co/PSEHostingUI/ShowTicketOffice.aspx?ID=11768"
-    }, {
-      "id": 3,
-      "name": "Alcanos",
-      "image": "Alcanos.png",
-      "link": "https://pagosvirtuales.alcanosesp.com/"
-    }
-  ]
-}
+    "name": "Gas",
+    "image": "chemistry-gc5fe3026a_1920.jpg",
+    "companies": [
+      {
+        "id": 1,
+        "name": "Gas caribe",
+        "image": "Gases del caribe.png",
+        "link": "https://portal.gascaribe.com/payments"
+      },
+      {
+        "id": 2,
+        "name": "Surtigas",
+        "image": "Surtigas.png",
+        "link": "https://www.psepagos.co/PSEHostingUI/ShowTicketOffice.aspx?ID=11774"
+      },
+      {
+        "id": 3,
+        "name": "Prmigas",
+        "image": "Promigas.png",
+        "link": "https://www.psepagos.co/PSEHostingUI/ShowTicketOffice.aspx?ID=11768"
+      },
+      {
+        "id": 3,
+        "name": "Alcanos",
+        "image": "Alcanos.png",
+        "link": "https://pagosvirtuales.alcanosesp.com/"
+      }
+    ]
+  }
 ]
