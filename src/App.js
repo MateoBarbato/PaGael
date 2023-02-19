@@ -1,11 +1,12 @@
 import './css/index.css';
+import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Main from './components/main';
 import Header from './components/header';
 import Footer from './components/footer';
 import SmoothScroll from './components/SmoothScroll';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import CompanyList from './components/companyList';
+import CompanyContainer from './components/companyListContainer';
 
 function App() {
   return (
@@ -14,8 +15,8 @@ function App() {
         <Header />
         <SmoothScroll>
           <Routes>
-            <Route path='/' element={<Main />}></Route>
-            <Route path='/:company' element={<CompanyList />}></Route>
+            <Route path='/' element={<Main />}/>
+            <Route path='/:company' element={<CompanyContainer/>}/>
           </Routes>
         </SmoothScroll>
         <Footer />

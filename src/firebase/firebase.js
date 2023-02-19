@@ -1,8 +1,7 @@
 import { initializeApp } from 'firebase/app';
 import { getFirestore } from 'firebase/firestore';
-import { collection, getDocs, query, where,addDoc  } from 'firebase/firestore';
-import myStuff from '../dbCompany.json'
-
+// import { collection, getDocs, query, where, addDoc } from 'firebase/firestore';
+// import myStuff from '../dbCompany.json';
 
 const firebaseConfig = {
   apiKey: 'AIzaSyCWrwJFp-r71YKsT5d0CS-sLYcYF_lFxG0',
@@ -18,8 +17,6 @@ const firebaseConfig = {
 const firebaseApp = initializeApp(firebaseConfig);
 
 const database = getFirestore(firebaseApp);
-
-
 
 // data.forEach(async (obj, index) => {
 //   if(index <= 100) { // manually change this condition to bypass limitations
@@ -39,6 +36,5 @@ const database = getFirestore(firebaseApp);
 //       });
 //   }
 // });
-
 
 export { database };

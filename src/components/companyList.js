@@ -1,24 +1,17 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
 import Mycard from './card';
-import { Link } from 'react-router-dom';
-import { useParams } from 'react-router-dom';
+import {Link } from 'react-router-dom';
 
-
-const CompanyList = () => {
-  const { company } = useParams();
-
-
-
+const CompanyList = ({data,company}) => {
   return (
     <>
       <Container className='companyListContainer'>
         <div className='text'>
-          <h2>asd</h2>
+          <h2>{company}</h2>
           <div className='instructions'>
             <p>
-              Para pagar el servicio elija el proveedor de  y lo re-enviara a la pagina de
-              pagos.
+              Para pagar el servicio elija el proveedor de y lo re-enviara a la pagina de pagos.
             </p>
           </div>
         </div>
@@ -34,7 +27,7 @@ const CompanyList = () => {
               <Mycard
                 key={index}
                 target={'blank'}
-                image={`assets/logos company/${company.image}`}
+                image={`assets/logosCompany/${company.image}`}
                 title={company.name}
                 link={company.link}
               />
