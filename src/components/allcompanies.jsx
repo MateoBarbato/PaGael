@@ -7,7 +7,6 @@ const AllCompaniesList = ({data}) => {
   return (
     <Container className='companyListContainer'>
       <div className='text'>
-        <h2>asd</h2>
         <div className='instructions'>
           <p>Para pagar el servicio elija el proveedor de y lo re-enviara a la pagina de pagos.</p>
         </div>
