@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import CategoryList from './categoryList';
 import { database } from '../firebase/firebase';
-import { collection, getDocs} from 'firebase/firestore';
+import { collection, getDocs,orderBy} from 'firebase/firestore';
 import SearchBar from './searchbar';
 import AllCompaniesList from './allcompanies';
 
@@ -38,7 +38,8 @@ const Main = () => {
 
   useEffect(() => {
     const db = database;
-    const itemsCollection = collection(db, 'companies');
+    const itemsCollection = collection(db, 'companies') 
+    .orderBy("id", "asc");
     if (!filter) {
       fetchAllData();
       getDocs(itemsCollection)
