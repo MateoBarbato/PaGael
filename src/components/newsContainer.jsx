@@ -10,7 +10,7 @@ const NewsContainer = () => {
             <Container className="noticias">
                 <div className="col">
                     <div className="row">
-
+                            <div className='row'></div>
                     </div>
                 </div>
             </Container>
