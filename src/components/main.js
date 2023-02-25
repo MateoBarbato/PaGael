@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import CategoryList from './categoryList';
 import { database } from '../firebase/firebase';
-import { collection, getDocs,orderBy} from 'firebase/firestore';
+import { collection, getDocs,orderBy,query} from 'firebase/firestore';
 import SearchBar from './searchbar';
 import AllCompaniesList from './allcompanies';
 
@@ -38,11 +38,11 @@ const Main = () => {
 
   useEffect(() => {
     const db = database;
-    const itemsCollection = collection(db, 'companies') 
-    .orderBy("id", "asc");
+    const itemsCollection = collection(db, 'companies');
+    const q = query(itemsCollection , orderBy("id", "asc"))
     if (!filter) {
       fetchAllData();
-      getDocs(itemsCollection)
+      getDocs(q)
         .then((snapshot) => {
           setData(snapshot.docs.map((doc) => ({ id: doc.id, ...doc.data() })));
         })

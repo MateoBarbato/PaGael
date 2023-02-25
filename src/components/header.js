@@ -11,7 +11,7 @@ const Header = () => {
           <Navbar.Brand className=' m-0 p-0' href='/'>
             <img
               alt=''
-              src='/assets/Original on Transparent.png'
+              src='/assets/logosCompany/Original on Transparent.png'
               width='286'
               height='80'
               className=' d-inline-block align-top p-0'

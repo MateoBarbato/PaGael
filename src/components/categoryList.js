@@ -9,7 +9,7 @@ const CategoryList = ({data}) => {
       <div className='containerCards'>
         {data?.map((data, index) => {
           return (
-            <Mycard key={index} link={data.name} image={`assets/${data.image}`} title={data.name} />
+            <Mycard key={index} link={data.name} image={`assets/logosCompany/${data.image}`} title={data.name} />
           );
         })}
       </div>
