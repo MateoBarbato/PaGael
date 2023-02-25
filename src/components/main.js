@@ -4,6 +4,7 @@ import { database } from '../firebase/firebase';
 import { collection, getDocs,orderBy,query} from 'firebase/firestore';
 import SearchBar from './searchbar';
 import AllCompaniesList from './allcompanies';
+import MainForm from './mainForm';
 
 const Main = () => {
   const [data, setData] = useState([]);
@@ -62,6 +63,7 @@ const Main = () => {
       <SearchBar filter={filter} handleChange={handleChange} />
       {filter? 
       <AllCompaniesList data={filteredData}/> : <CategoryList data={data} />}
+      <MainForm></MainForm>
     </main>
   );
 };

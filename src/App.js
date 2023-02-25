@@ -9,6 +9,8 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import CompanyContainer from './components/companyListContainer';
 import NewsContainer from './components/newsContainer'
 
+
+
 function App() {
   return (
     <>
@@ -16,7 +18,8 @@ function App() {
         <Header />
         <SmoothScroll>
           <Routes>
-            <Route path='/' element={<Main />}/>
+            <Route path='/' element={<Main/>}/>
+            <Route path='/noticias' element={<NewsContainer/>}/>
             <Route path='/:company' element={<CompanyContainer/>}/>
             <Route path='/news' element={<NewsContainer/>}/>
           </Routes>
