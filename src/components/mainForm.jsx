@@ -12,32 +12,33 @@ const MainForm = () => {
             <h3 className="mb-1 p-3">Contanos un poco de tu experiencia en la pagina!</h3>
 
             <Card className="px-3 shadow-cards">
-                <Form className="py-4">
+                <Form method="POST" action="https://getform.io/f/50bcd04d-0598-4e50-8d18-7112e781c36e" className="py-4">
                 <Row >
                     <Col>
-                        <Form.Group className="mb-3" controlId="Nombre">
+                        <Form.Group className="mb-3"  controlId="Nombre">
                         <Form.Label>Nombre</Form.Label>
-                        <Form.Control type="text" placeholder="Tu nombre" />
+                        <Form.Control type="text" name='nombre' placeholder="Tu nombre" />
                         </Form.Group>
                     </Col>
                     <Col>
                         <Form.Group className="mb-3" controlId="Apellido">
                         <Form.Label>Apellido</Form.Label>
-                        <Form.Control type="text" placeholder="Tu apellido" />
+                        <Form.Control type="text" name='apellido' placeholder="Tu apellido" />
                         </Form.Group>
                     </Col>
                 </Row>
+                <input type="hidden" name="_gotcha" style={{display:'none'}}></input>
                     <Form.Group className="mb-3" controlId="E-mail">
                             <Form.Label>E-mail</Form.Label>
-                            <Form.Control type="text" placeholder="Ingrese tu e-mail:" />
+                            <Form.Control type="text" name='email' placeholder="Ingrese tu e-mail:" />
                             </Form.Group>
                     <Form.Group className="mb-3" controlId="Texto">
                         <Form.Label className="fs-4">Contanos sobre tu experiencia:</Form.Label>
-                        <Form.Control size="lg" as="textarea" rows={5} placeholder="Escribe aqui:" />
+                        <Form.Control size="lg" as="textarea" name='texto' rows={5} placeholder="Escribe aqui:" />
                     </Form.Group>
-                    <Form.Group className="mb-3 py-3" controlId="Checkbox">
+                    {/* <Form.Group className="mb-3 py-3" controlId="Checkbox">
                         <Form.Check type="checkbox" label="¿Estas satisfecho con el uso de la pagina?" />
-                    </Form.Group>
+                    </Form.Group> */}
 
                     {validated?
                     <Button variant="warning" type="submit">
